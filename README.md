@@ -115,9 +115,9 @@ Projeto desenvolvido para o **Stand Autotaipinhas**, focado na criação do **si
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/regadas02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regadas02&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regadas02&layout=compact&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
+  <a href="https://github.com/REGADAS1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=REGADAS1&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REGADAS1&layout=compact&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
   </a>
 </div>
 
