@@ -71,9 +71,12 @@ Atualmente tenho trabalhado em 3 projetos distintos, com tecnologias como **Supa
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
     <img height="35px" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    
-  &nbsp;
-  <kbd>Ferramentas</kbd>
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+    <kbd>Ferramentas</kbd>
     <br><br>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -82,7 +85,6 @@ Atualmente tenho trabalhado em 3 projetos distintos, com tecnologias como **Supa
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    
   </kbd>
 </p>
 
