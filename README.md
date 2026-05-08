@@ -27,9 +27,7 @@
 
 Sou o **Gonçalo Regadas**, finalista de **Mestrado em Engenharia e Gestão de Sistemas de Informação** na **Universidade do Minho**.
 
-Tenho interesse em **Desenvolvimento Fullstack**, principalmente no **ecossistema Java**, onde tenho procurado aprofundar conhecimentos. Também gosto bastante da área de **Engenharia de Dados**, especialmente na organização, tratamento e integração de dados em sistemas reais.
-
-Atualmente tenho trabalhado em 3 projetos distintos, com tecnologias como **Supabase**, **Firebase**, **Java**, **HTML**, **CSS**, **JS**, **PostgreSQL** e **Docker**.
+Tenho interesse em **Desenvolvimento Backend**, principalmente no **ecossistema Java**, onde tenho procurado aprofundar conhecimentos. Também gosto bastante da área de **Engenharia de Dados**, especialmente na organização, tratamento e integração de dados em sistemas reais.
 
 <br>
 
