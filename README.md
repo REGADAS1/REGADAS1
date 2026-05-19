@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-   Wannabe Developer | Java Enthusiast | Data Engineering & Analytics
+   Junior Java Developer | AI Enthusiast | Data Engineering & Analytics
 </h3>
 
 <p align="center">
